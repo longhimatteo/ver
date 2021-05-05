@@ -1,0 +1,32 @@
+[
+ {
+  "codice": AA01,
+  "nome": "Mouse",
+  "prezzo": 16.00
+ },
+ {
+  "codice": AA02,
+  "nome": "Tastiera",
+  "prezzo": 25.00
+ },
+ {
+  "codice": AA03,
+  "nome": "Stampante",
+  "prezzo": 350.00
+ },
+  {
+  "codice": AA04,
+  "nome": "Webcam",
+  "prezzo": 26.00
+ },
+ {
+  "codice": AA05,
+  "nome": "Cuffie",
+  "prezzo": 45.00
+ },
+ {
+  "codice": AA06,
+  "nome": "Monitor",
+  "prezzo": 150.00
+ }
+]
